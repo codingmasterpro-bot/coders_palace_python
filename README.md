@@ -8,10 +8,7 @@ Please Subscribe My Youtube channel
 
 Name : Brain Flicks
 
-Link : https://www.youtube.com/nirankarnathsingh
-
-Instagram : https://www.instagram.com/bnirankar
-## Running
+Link : https://www.youtube.com/channel/UCyABjJ_U1UQdvFH19keVzKg
 
 * $ pip install -r requirements.txt
 * $ python main.py
